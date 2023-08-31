@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "30e1ee0787d6deab1fc5597087a5eec99446d7e21993926104d086431df7f676"
+build_start_time: [1693483821, 888350000]
+build_end_time: [1693483828, 722893000]
+inputs:
+  "/Users/pavelglazacev/Documents/Project/flutter/PuzzleFarm/macos/Flutter/GeneratedPluginRegistrant.swift": [1693483798, 346470862]
+  "/Users/pavelglazacev/Documents/Project/flutter/PuzzleFarm/macos/Runner/AppDelegate.swift": [1678872112, 0]
+  "/Users/pavelglazacev/Documents/Project/flutter/PuzzleFarm/macos/Runner/MainFlutterWindow.swift": [1678872112, 0]

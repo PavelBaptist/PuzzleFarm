@@ -45,5 +45,10 @@
 	<false/>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
+<<<<<<< HEAD
+=======
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+>>>>>>> afe7523 (Исправление ошибок запуска на MAC)
 </dict>
 </plist>

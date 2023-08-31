@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+=======
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
+>>>>>>> afe7523 (Исправление ошибок запуска на MAC)
 #include "ephemeral/Flutter-Generated.xcconfig"
